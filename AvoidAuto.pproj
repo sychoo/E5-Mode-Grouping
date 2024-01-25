@@ -1,0 +1,11 @@
+<!-- P Project file for the Client Server example -->
+<Project>
+<ProjectName>AvoidAuto</ProjectName>
+<InputFiles>
+	<PFile>./PSrc/Original</PFile>
+	<PFile>./PSrc/Modified</PFile>
+	<PFile>./PSpec/</PFile>
+	<PFile>./PTst/</PFile>
+</InputFiles>
+<OutputDir>./PGenerated/</OutputDir>
+</Project>
